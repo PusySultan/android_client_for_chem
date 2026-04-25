@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cAtod_BLE</string>
+    <string name="title_activity_bleactivity">BLEActivity</string>
+    <string name="title_activity_send_comand_page">SendComandPage</string>
+</resources>

@@ -1,0 +1,63 @@
+# Built application files
+*.apk
+*.aab
+*.ap_
+*.aab
+
+# Gradle files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration file (e.g., SDK paths)
+local.properties
+
+# Android Studio files
+.idea/
+*.iml
+*.ipr
+*.iws
+.navigation/
+.cxx/
+captures/
+
+# Keystore files (credentials)
+*.jks
+*.keystore
+
+# Firebase configuration (if used)
+google-services.json
+
+# Android generated files
+gen/
+out/
+app/release/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# macOS folder attributes
+**/.DS_Store
+
+# Jetpack Compose (precompiled cache)
+.compose/
+
+# Кэш Kotlin
+.kotlin/
+.kapt/
+
+# Кэш Maven (если используется)
+.m2/repository/
+
+# Файлы профилирования
+*.hprof
+
+# Файлы тестов
+**/test-results/
+**/build/reports/tests/
